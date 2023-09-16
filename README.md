@@ -7,7 +7,7 @@ Marvel: Ultimate War is a 2-player battle game where each player selects a team 
 This game was awarded a bonus for the "Fantastic GUI Criteria."
 
 ## Video Demo
-[Watch the Game in Action on YouTube]([insert_youtube_link_here](https://www.youtube.com/watch?v=s7WLzU0KhGk&t=87s))
+[Watch the Game in Action on YouTube](https://www.youtube.com/watch?v=s7WLzU0KhGk&t=87s)
 
 ## Table of Contents
 1. [Game Description](#game-description)
@@ -23,6 +23,11 @@ Marvel: Ultimate War is a 2-player battle game where each player selects a team 
 
 ### Champions
 Champions have attributes such as health points, mana, normal attack damage, normal attack range, speed, and condition (active, inactive, or knocked out). They also have actions per turn, which determine how many actions a champion can take during their turn.
+
+#### Champion Types
+- **Heroes:** Heroes deal extra damage when attacking villains.
+- **Villains:** Villains deal extra damage when attacking heroes.
+- **Anti-Heroes:** When being attacked or attacking a hero or villain, the anti-hero will always act as the opposite type. If attacking an anti-hero, damage is calculated normally.
 
 ### Abilities
 Champions can use special abilities, which include damaging abilities, healing abilities, and effect abilities. These abilities have various targets, ranges, and effects. Some abilities require action points and mana to use.
