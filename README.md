@@ -7,7 +7,7 @@ Marvel: Ultimate War is a 2-player battle game where each player selects a team 
 This game was awarded a bonus for the "Fantastic GUI Criteria."
 
 ## Video Demo
-[Watch the Game in Action on YouTube](insert_youtube_link_here)
+[Watch the Game in Action on YouTube]([insert_youtube_link_here](https://www.youtube.com/watch?v=s7WLzU0KhGk&t=87s))
 
 ## Table of Contents
 1. [Game Description](#game-description)
