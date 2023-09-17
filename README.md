@@ -73,6 +73,6 @@ Each player selects one champion as their leader at the beginning of the game. L
 - To cancel the viewing information mode, press ESC.
 
 ## Authors
-- [Ahmed Labib]
+- [Ahmed Labib] (https://github.com/ahmedlabib02)
 - [Malak Labib](https://github.com/malakklabib)
 - [Logine Mohamed](https://github.com/logine20)
